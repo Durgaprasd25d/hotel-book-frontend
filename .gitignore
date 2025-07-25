@@ -1,0 +1,17 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Testing
+coverage/
+
+# Environment variables
+.env
+.env.*
+
+# OS/IDE
+.DS_Store
+.vscode/
